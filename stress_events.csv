@@ -1,0 +1,6 @@
+Event_Type,Start_Time_Seconds,End_Time_Seconds,Duration_Seconds
+typical,0,61,61
+stress,61,72,11
+typical,72,136,64
+stress,136,156,20
+typical,156,300,144
